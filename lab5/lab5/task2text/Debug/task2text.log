@@ -1,0 +1,6 @@
+﻿  task2text.cpp
+D:\Open GL\lab4\task2text\Shader.h(9,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+SOIL.lib(image_DXT.obj) : warning LNK4099: "SOIL.pdb" PDB не найден с "SOIL.lib(image_DXT.obj)" или на "D:\Open GL\lab4\Debug\SOIL.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+SOIL.lib(image_helper.obj) : warning LNK4099: "SOIL.pdb" PDB не найден с "SOIL.lib(image_helper.obj)" или на "D:\Open GL\lab4\Debug\SOIL.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: "SOIL.pdb" PDB не найден с "SOIL.lib(stb_image_aug.obj)" или на "D:\Open GL\lab4\Debug\SOIL.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  task2text.vcxproj -> D:\Open GL\lab4\Debug\task2text.exe
